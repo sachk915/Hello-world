@@ -1,0 +1,10 @@
+
+//well come to java programing
+public class helloj
+{
+        public static void main(String s[])
+        {
+            System.out.print("Hello  Java");
+            System.out.println("Well come To Java");
+     }
+}
