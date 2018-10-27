@@ -1,6 +1,6 @@
 
 //well come to java programing
-public class helloj
+public class hello_java
 {
         public static void main(String s[])
         {
