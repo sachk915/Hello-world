@@ -1,0 +1,22 @@
+public class string1
+{
+  String s="Well come to java."
+  public static void main(String []ss)
+  {
+    #lowercase
+    System.out.println(s.toLowerCase())
+    
+    #UpperCase
+    System.out.println(s.toUppercase())
+    
+    #Length
+    System.out.println(s.length())
+    
+    #find Character at position
+    System.out.println(s.chatAt(2))
+    
+    #Breack a string with substring()
+    System.out.println(s.subString(3,6))
+   }
+  } 
+    
